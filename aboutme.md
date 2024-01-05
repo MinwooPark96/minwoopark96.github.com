@@ -13,7 +13,7 @@ I'm interested in causal decision making, NLP,..etc!
 
 **Education**
 
-[2016 - 2021] : BS in Applied statistic & Mathematics at Sejong University; Advisor : [Prof. Jieun Lee](https://home.sejong.ac.kr/~jieunlee7/)\\
+[2016 - 2021] : B.S. in Applied statistic & Mathematics at Sejong University; Advisor : [Prof. Jieun Lee](https://home.sejong.ac.kr/~jieunlee7/)\\
 [2022 - Present] : Master & Ph.D course at Seoul National University; Advisor : [Prof. Sanghack Lee](https://www.sanghacklee.me/)
 
 **Publication**
