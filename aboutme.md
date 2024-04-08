@@ -9,7 +9,7 @@ Hi, thanks for coming to my site. I am a graduate student in the Graduate School
 
 **Research**
 
-I'm interested in causal decision making, NLP,..etc! 
+I'm interested in causal decision making!
 
 **Education**
 
