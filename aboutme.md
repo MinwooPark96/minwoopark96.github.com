@@ -23,7 +23,7 @@ and Mean transforms*](https://www.pmf.ni.ac.rs/filomat-content/2023/37-15/FILOMA
 
 **Working**
 
-*Convergence of the iterated mean transforms of a 2 × 2 matrix*\\
-*Value of Information under Insolubility*\\
-*Completeness of Graphical criteria - Non Redundant under Optimality*\\
+1. *Convergence of the iterated mean transforms of a 2 × 2 matrix*
+2. *Value of Information under Insolubility*
+3. *Completeness of Graphical Criteria - Non Redundant under Optimality* 
 
