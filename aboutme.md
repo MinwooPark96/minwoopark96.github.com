@@ -9,7 +9,7 @@ Hi, thanks for coming to my site. I am a graduate student in the Graduate School
 
 **Research**
 
-I'm interested in causal decision making!
+I'm interested in causal decision making, causal identification.
 
 **Education**
 
@@ -19,11 +19,11 @@ I'm interested in causal decision making!
 **Publication**
 
 Min Woo Park and Ji Eun Lee, [*Computation of the iterated Aluthge, Duggal,
-and Mean transforms*](https://www.pmf.ni.ac.rs/filomat-content/2023/37-15/FILOMAT%2037-15.html), Filomat (2023)
+and Mean transforms*](https://doiserbia.nb.rs/Article.aspx?ID=0354-51802315843P), Filomat (2023)
 
 **Working**
 
-1. *Convergence of the iterated mean transforms of a 2 × 2 matrix* (submitted)
+1. *Convergence of the iterated mean transforms of a 2 × 2 matrix* (Submitted)
 2. *Value of Information under Insolubility*
 3. *Completeness of Graphical Criteria - Non Redundant under Optimality* 
-4. *Complete Graphical Criterion for Sequential Adjustment*
+4. *Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference*
