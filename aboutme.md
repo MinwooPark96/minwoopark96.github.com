@@ -19,7 +19,7 @@ I'm interested in causal decision making, causal identification.
 **Publication**
 
 Min Woo Park and Ji Eun Lee, [*Computation of the iterated Aluthge, Duggal,
-and Mean transforms*](https://doiserbia.nb.rs/Article.aspx?ID=0354-51802315843P), Filomat (2023)
+and Mean transforms*](https://doiserbia.nb.rs/Article.aspx?ID=0354-51802315843P), Filomat (2023) - [MR](https://mathscinet.ams.org/mathscinet/2006/mathscinet/search/publdoc.html?pg1=INDI&s1=800660&sort=Newest&vfpref=html&r=8&mx-pid=4576619)
 
 **Working**
 
