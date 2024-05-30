@@ -5,16 +5,16 @@ title: About Me
 
 **About Me**
 
-Hi, thanks for coming to my site. I am a graduate student in [GSDS](https://gsds.snu.ac.kr/).
+Hi, thanks for coming to my site. I am a graduate student in the [GSDS](https://gsds.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/). I am studying in the [Causality Lab](https://causality.snu.ac.kr/) <img src="causality_logo.jpg" alt="Causality Logo" style="width:50px; height:auto; display:inline;">.
 
 **Research**
 
-I'm interested in causal decision making, causal identification.
+I'm interested in causal decision making and causal identification.
 
 **Education**
 
 [2016 - 2021] : B.S. in Applied statistic & Mathematics at Sejong University; Advisor : [Prof. Jieun Lee](https://home.sejong.ac.kr/~jieunlee7/)\\
-[2022 - Present] : Master & Ph.D course in the Graduate School of Data Science at Seoul National University; Advisor : [Prof. Sanghack Lee](https://www.sanghacklee.me/)
+[2022 - Present] : Master & Ph.D course in Data Science at Seoul National University; Advisor : [Prof. Sanghack Lee](https://www.sanghacklee.me/)
 
 **Publication**
 
