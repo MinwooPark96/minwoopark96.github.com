@@ -5,11 +5,11 @@ title: About Me
 
 **About Me**
 
-Hi, thanks for coming to my site. I am a graduate student in the [GSDS](https://gsds.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/). I am studying in the [Causality Lab](https://causality.snu.ac.kr/) <img src="causality_logo.jpg" alt="Causality Logo" style="width:50px; height:auto; display:inline;">.
+Hi, thanks for coming to my site. I am a graduate student in [GSDS](https://gsds.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/). I am studying in [Causality Lab](https://causality.snu.ac.kr/) <img src="causality_logo.jpg" alt="Causality Logo" style="width:50px; height:auto; display:inline;">.
 
 **Research**
 
-I'm interested in causal decision making and causal identification.
+I'm interested in causal decision making and causal effect identification.
 
 **Education**
 
