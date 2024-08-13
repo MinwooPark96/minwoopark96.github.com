@@ -5,7 +5,7 @@ title: About Me
 
 **About Me**
 
-Hi, thanks for coming to my site. I am a graduate student in [GSDS](https://gsds.snu.ac.kr/) at [Seoul National University](https://www.snu.ac.kr/). I am studying in [Causality Lab](https://causality.snu.ac.kr/) <img src="causality_logo.jpg" alt="Causality Logo" style="width:50px; height:auto; display:inline;">.
+Hi, thanks for visiting my site. I conducted research at the Functional Analysis Lab of [Sejong University](http://sejong.ac.kr/). I am currently a graduate student in [Causality Lab](https://causality.snu.ac.kr/) <img src="causality_logo.jpg" alt="Causality Logo" style="width:50px; height:auto; display:inline;"> at [Seoul National University](https://www.snu.ac.kr/).
 
 **Research**
 
