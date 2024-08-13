@@ -9,12 +9,13 @@ Hi, thanks for coming to my site. I am a graduate student in [GSDS](https://gsds
 
 **Research**
 
-I'm interested in causal decision making and causal effect identification.
+I'm interested in **causal decision making** and **causal effect identification**.
 
 **Education**
 
-[2016 - 2021] : B.S. in Applied statistic & Mathematics at Sejong University; Advisor : [Prof. Jieun Lee](https://home.sejong.ac.kr/~jieunlee7/)\\
-[2022 - Present] : Master & Ph.D course in Data Science at Seoul National University; Advisor : [Prof. Sanghack Lee](https://www.sanghacklee.me/)
+[2016 - 2021] : B.S. in Applied statistic & Mathematics at Sejong University, Advisor : [Prof. Jieun Lee](https://home.sejong.ac.kr/~jieunlee7/)
+
+[2022 - Present] : Master & Ph.D course in Data Science at Seoul National University, Advisor : [Prof. Sanghack Lee](https://www.sanghacklee.me/)
 
 **Publication**
 
@@ -23,8 +24,9 @@ and Mean transforms*, Filomat (2023) - [[paper](https://doiserbia.nb.rs/Article.
 
 **Working**
 
-1. *Convergence of the iterated mean transforms of a 2 × 2 matrix* (Submitted)
-2. *Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference* (Submitted)
-3. *Prompt Cross Model Transferability*
-4. *Completeness of Graphical Criteria - Non Redundant under Optimality* 
+1. Convergence of the iterated mean transforms of a 2 × 2 matrix (Submitted)
+2. Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference (Submitted)
+3. Structural Causal Bandit under Incomplete Informaton
+4. Prompt Cross Model Transferability
+5. Completeness of Graphical Criteria - Non Redundant under Optimality
 
