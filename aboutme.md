@@ -27,6 +27,6 @@ and Mean transforms*, Filomat (2023) - [[paper](https://doiserbia.nb.rs/Article.
 1. Convergence of the iterated mean transforms of a 2 × 2 matrix (Submitted)
 2. Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference (Submitted)
 3. Structural Causal Bandit under Incomplete Informaton
-4. Prompt Cross Model Transferability
+4. Structural Causal Bandit with Component Optimization
 5. Completeness of Graphical Criteria - Non Redundant under Optimality
 
