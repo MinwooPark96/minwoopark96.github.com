@@ -3,30 +3,31 @@ layout: page
 title: About Me
 ---
 
-**About Me**
+### About Me
 
 Hi, thanks for visiting my site. I conducted research at the Functional Analysis Lab of [Sejong University](http://sejong.ac.kr/). I am currently a graduate student in [Causality Lab](https://causality.snu.ac.kr/) <img src="causality_logo.jpg" alt="Causality Logo" style="width:50px; height:auto; display:inline;"> at [Seoul National University](https://www.snu.ac.kr/).
 
-**Research**
+### Research
 
-I'm interested in **causal decision making** and **causal effect identification**.
+My research focuses on Causal Decision Making and Causal Effect Identification. I study how to graphically model a wide range of real-world problems in a causal manner and make optimal decisions. In particular, my research explores methods for making robust decisions, even when modeling with incomplete information. Additionally, I am investigating decision making processes in sequential settings.
 
-**Education**
+### Education
 
-[2016 - 2021] : B.S. in Applied statistic & Mathematics at Sejong University, Advisor : [Prof. Jieun Lee](https://home.sejong.ac.kr/~jieunlee7/)
+Department of Mathematics and Statistics, Sejong University (2016 - 2022) <br/> *B.S. in Applied Statistic and Mathematics (Double Major)*, Advisor: [Prof. Jieun Lee](https://home.sejong.ac.kr/~jieunlee7/) <br/> 
 
-[2022 - Present] : Master & Ph.D course in Data Science at Seoul National University, Advisor : [Prof. Sanghack Lee](https://www.sanghacklee.me/)
+Graduate School of Data Science, Seoul National University (2022 - present)<br/>
+*Master & Ph.D in Data Science*, Advisor: [Prof. Sanghack Lee](https://www.sanghacklee.me/)
 
-**Publication**
+### Publication
 
-Min Woo Park and Ji Eun Lee, *Computation of the iterated Aluthge, Duggal,
-and Mean transforms*, Filomat (2023) - [[paper](https://doiserbia.nb.rs/Article.aspx?ID=0354-51802315843P)]
+Yonghan Jung, Min Woo Park, and Sanghack Lee, Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference. 
+<br/> *preprint*, (2024)
 
-**Working**
+Ji Eun Lee and Min Woo Park, Convergence of the iterated mean transforms of a 2 by 2 matrix,
+<br/> *preprint*, (2024) 
 
-1. Convergence of the iterated mean transforms of a 2 × 2 matrix (Submitted)
-2. Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference (Submitted)
-3. Structural Causal Bandit under Incomplete Informaton
-4. Structural Causal Bandit with Component Optimization
-5. Completeness of Graphical Criteria - Non Redundant under Optimality
+Min Woo Park and Ji Eun Lee, Computation of the iterated Aluthge, Duggal,
+and Mean transforms,
+<br/> *Filomat* (2023) - [[paper](https://doiserbia.nb.rs/Article.aspx?ID=0354-51802315843P)]
+
 

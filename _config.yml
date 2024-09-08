@@ -13,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Minwoo Park
-  tagline: Graduate Student
+  tagline: Ph.D Student
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -51,8 +51,8 @@ plainwhite:
   navigation:
     - title: About me
       url: "/aboutme"
-    - title : Repositoy
-      url: "/repository"
+    - title : Contact
+      url: "/contact"
     - title: Posts
       url: "/index"
 
