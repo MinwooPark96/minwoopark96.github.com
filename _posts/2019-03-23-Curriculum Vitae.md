@@ -7,7 +7,7 @@ categories: CV
 
 
 <div id="pdf" style="height: 800px;"></div>
-<script src="/js/pdfobject.min.js"></script>
+<script src="/pdfobject.min.js"></script>
 <script>
 PDFObject.embed("https://minwoopark96.github.io/cv.pdf", "#pdf");
 </script>
