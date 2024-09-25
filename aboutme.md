@@ -20,14 +20,16 @@ Graduate School of Data Science, Seoul National University (2022 - present)<br/>
 
 ### Publication
 
-Yonghan Jung, Min Woo Park, and Sanghack Lee, Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference. 
-<br/> *preprint*, (2024)
+1. Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference <br/>
+Yonghan Jung, <ins>Min Woo Park</ins>, and Sanghack Lee
+<br/> *NeurIPS*, 2024
 
-Ji Eun Lee and Min Woo Park, Convergence of the iterated mean transforms of a 2 by 2 matrix,
-<br/> *preprint*, (2024) 
+2. Convergence of the iterated mean transforms of a 2 by 2 matrix <br/>
+Ji Eun Lee* and <ins>Min Woo Park</ins>* <br/>
+ *preprint*, 2024
 
-Min Woo Park and Ji Eun Lee, Computation of the iterated Aluthge, Duggal,
-and Mean transforms,
-<br/> *Filomat* (2023) - [[paper](https://doiserbia.nb.rs/Article.aspx?ID=0354-51802315843P)]
+3. Computation of the iterated Aluthge, Duggal, and Mean transforms <br/>
+<ins>Min Woo Park</ins>* and Ji Eun Lee* 
+<br/> *Filomat*, 2023 - [[paper](https://doiserbia.nb.rs/Article.aspx?ID=0354-51802315843P)]
 
 
