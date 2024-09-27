@@ -9,7 +9,7 @@ Hi, thanks for visiting my site. I conducted research at the Functional Analysis
 
 ### Research
 
-My research focuses on Causal Decision Making and Causal Effect Identification. I study how to graphically model a wide range of real-world problems in a causal manner and make optimal decisions. In particular, my research explores methods for making robust decisions, even when modeling with incomplete information. Additionally, I am investigating decision making processes in sequential settings.
+My research focuses on Causal Decision Making and Causal Effect Identification. I study how to graphically model a wide range of real-world problems in a causal manner and make optimal decisions. In particular, my research explores methods for making robust decisions, even when modeling with incomplete information, and decision-making processes in sequential settings.
 
 ### Education
 
