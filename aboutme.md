@@ -32,4 +32,4 @@ Ji Eun Lee* and <ins>Min Woo Park</ins>* <br/>
 <ins>Min Woo Park</ins>* and Ji Eun Lee* 
 <br/> *Filomat*, 2023 - [[paper](https://doiserbia.nb.rs/Article.aspx?ID=0354-51802315843P)]
 
-
+[[Google Scholar](https://scholar.google.com/citations?user=sBHEbVQAAAAJ&hl=ko)]
