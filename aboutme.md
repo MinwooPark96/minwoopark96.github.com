@@ -23,11 +23,11 @@ Graduate School of Data Science, Seoul National University (2022 - present)<br/>
 
 1. Structural Causal Bandtis under Markov Equivalence <br/>
 <ins>Min Woo Park</ins>\*, Andy Arditi\*, Sanghack Lee†, and Elias Bareinboim† <br/>
-*under review*, 2024
+*under review*
 
 2. Convergence of the iterated mean transforms of a 2 by 2 matrix <br/>
 Ji Eun Lee\*† and <ins>Min Woo Park</ins>\* <br/>
-*under review*, 2024
+*under review*
 
 3. Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference <br/>
 Yonghan Jung, <ins>Min Woo Park</ins>, and Sanghack Lee†
