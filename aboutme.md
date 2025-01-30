@@ -5,11 +5,11 @@ title: About Me
 
 ### About Me
 
-Hi, thanks for visiting my site. I conducted research at the Functional Analysis Lab of [Sejong University](http://sejong.ac.kr/). I am currently a graduate student in [Causality Lab](https://causality.snu.ac.kr/) <img src="causality_logo.jpg" alt="Causality Logo" style="width:50px; height:auto; display:inline;"> at [Seoul National University](https://www.snu.ac.kr/).
+Hi, thanks for visiting my site! I previously conducted research at the Functional Analysis Lab of [Sejong University](http://sejong.ac.kr/). Currently, I am a graduate student in [Causality Lab](https://causality.snu.ac.kr/) <img src="causality_logo.jpg" alt="Causality Logo" style="width:50px; height:auto; display:inline;"> at [Seoul National University](https://www.snu.ac.kr/).
 
 ### Research
 
-My research focuses on Causal Decision Making and Causal Effect Identification. I study how to graphically model a wide range of real-world problems in a causal manner and make optimal decisions. In particular, my research explores methods for making robust decisions, even when modeling with incomplete information, and decision-making processes in sequential settings.
+My research focuses on **Causal Decision Making** and **Causal Effect Identification**. I study how to graphically model a wide range of real-world problems in a causal manner and make optimal decisions. In particular, my research explores methods for making robust decisions, even when modeling with incomplete information, and decision-making processes in sequential settings.
 
 ### Education
 
