@@ -13,16 +13,17 @@ My research focuses on Causal Decision Making and Causal Effect Identification. 
 
 ### Education
 
-Department of Mathematics and Statistics, Sejong University (2016 - 2022) <br/> *B.S. in Applied Statistic and Mathematics (Double Major)*, Advisor: [Prof. Jieun Lee](https://home.sejong.ac.kr/~jieunlee7/) <br/> 
+Department of Mathematics and Statistics, Sejong University (2016  - 2022) <br/> 
+**B.S.** in *Applied Statistic and Mathematics (Double Major)*, Advisor: [Prof. Jieun Lee](https://home.sejong.ac.kr/~jieunlee7/) <br/> 
 
 Graduate School of Data Science, Seoul National University (2022 - present)<br/>
-*Master & Ph.D in Data Science*, Advisor: [Prof. Sanghack Lee](https://www.sanghacklee.me/)
+**M.S & Ph.D** in *Data Science*, Advisor: [Prof. Sanghack Lee](https://www.sanghacklee.me/)
 
 ### Publication
 <small>\* for joint first authorship and † for corresponding author.</small>
 
 1. Structural Causal Bandtis under Markov Equivalence <br/>
-<ins>Min Woo Park</ins>\*, Andy Arditi\*, Sanghack Lee†, and Elias Bareinboim† <br/>
+<ins>Min Woo Park</ins>\*, Andy Arditi\*, Elias Bareinboim†, and Sanghack Lee† <br/>
 *under review*
 
 2. Convergence of the iterated mean transforms of a 2 by 2 matrix <br/>
