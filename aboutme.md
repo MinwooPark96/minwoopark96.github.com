@@ -23,7 +23,7 @@ Graduate School of Data Science, Seoul National University (2022 - present)<br/>
 <small>\* for joint first authorship and † for corresponding author.</small>
 
 1. Structural Causal Bandtis under Markov Equivalence <br/>
-<ins>Min Woo Park</ins>\*, Andy Arditi\*, Elias Bareinboim†, and Sanghack Lee† <br/>
+<ins>Min Woo Park</ins>\*, [Andy Arditi](https://andyrdt.com/)\*, [Elias Bareinboim](https://causalai.net/)†, and Sanghack Lee† <br/>
 *under review*
 
 2. Convergence of the iterated mean transforms of a 2 by 2 matrix <br/>
@@ -31,8 +31,8 @@ Ji Eun Lee\*† and <ins>Min Woo Park</ins>\* <br/>
 *under review*
 
 3. Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference <br/>
-Yonghan Jung, <ins>Min Woo Park</ins>, and Sanghack Lee†
-<br/> *NeurIPS*, 2024 - [[paper](https://openreview.net/pdf?id=6gIcnPvw2x)][[poster](https://minwoopark96.github.io/paper/sac_poster.pdf)]
+[Yonghan Jung](https://sites.google.com/view/yonghanjung), <ins>Min Woo Park</ins>, and Sanghack Lee†
+<br/> *Neural Information Processing Systems* (**NeurIPS**), 2024 - [[paper](https://openreview.net/pdf?id=6gIcnPvw2x)][[poster](https://minwoopark96.github.io/paper/sac_poster.pdf)]
 
 4. Computation of the iterated Aluthge, Duggal, and Mean transforms <br/>
 <ins>Min Woo Park</ins>\* and Ji Eun Lee\*†
