@@ -13,18 +13,18 @@ My research focuses on **Causal Decision Making** and **Causal Effect Identifica
 
 ### Education
 
+Graduate School of Data Science, Seoul National University (2022 - present)<br/>
+**M.S & Ph.D** candidate in *Data Science*, Advisor: [Prof. Sanghack Lee](https://www.sanghacklee.me/)
+
 Department of Mathematics and Statistics, Sejong University (2016  - 2022) <br/> 
 **B.S.** in *Applied Statistic and Mathematics (Double Major)*, Advisor: [Prof. Jieun Lee](https://home.sejong.ac.kr/~jieunlee7/) <br/> 
-
-Graduate School of Data Science, Seoul National University (2022 - present)<br/>
-**M.S & Ph.D** in *Data Science*, Advisor: [Prof. Sanghack Lee](https://www.sanghacklee.me/)
 
 ### Publication
 <small>\* for joint first authorship and † for corresponding author.</small>
 
 1. Structural Causal Bandtis under Markov Equivalence <br/>
 <ins>Min Woo Park</ins>, [Andy Arditi](https://andyrdt.com/), [Elias Bareinboim](https://causalai.net/)†, and Sanghack Lee† <br/>
-*preprint - Columbia CausalAI Laboratory, Technical Report*, 2025 -[[paper](https://causalai.net/)]
+*Columbia CausalAI Laboratory, Technical Report (preprint)*, 2025 -[[paper](https://causalai.net/r122.pdf)]
 
 2. Convergence of the iterated mean transforms of a 2 by 2 matrix <br/>
 Ji Eun Lee\*† and <ins>Min Woo Park</ins>\* <br/>
@@ -32,7 +32,7 @@ Ji Eun Lee\*† and <ins>Min Woo Park</ins>\* <br/>
 
 3. Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference <br/>
 [Yonghan Jung](https://sites.google.com/view/yonghanjung), <ins>Min Woo Park</ins>, and Sanghack Lee†
-<br/> *Neural Information Processing Systems* (**NeurIPS**), 2024 - [[paper](https://openreview.net/pdf?id=6gIcnPvw2x)][[poster](https://minwoopark96.github.io/paper/sac_poster.pdf)]
+<br/> *Neural Information Processing Systems* (NeurIPS), 2024 - [[paper](https://openreview.net/pdf?id=6gIcnPvw2x)][[poster](https://minwoopark96.github.io/paper/sac_poster.pdf)]
 
 4. Computation of the iterated Aluthge, Duggal, and Mean transforms <br/>
 <ins>Min Woo Park</ins>\* and Ji Eun Lee\*†
