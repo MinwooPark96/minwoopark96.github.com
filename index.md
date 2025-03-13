@@ -37,4 +37,4 @@ under review
 <ins>Min Woo Park</ins>\* and Ji Eun Lee\*†
 <br/> Filomat, 2023 - [[paper](https://doiserbia.nb.rs/Article.aspx?ID=0354-51802315843P)]
 
-[[Google Scholar](https://scholar.google.com/citations?user=sBHEbVQAAAAJ&hl=ko)]
+[[Google Scholar](https://scholar.google.com/citations?user=sBHEbVQAAAAJ&hl=ko)] [[Curriculum Vitae](https://minwoopark96.github.io/cv/2025/02/04/Curriculum-Vitae.html)][[Open Review](https://openreview.net/profile?id=~Min_Woo_Park1)]
