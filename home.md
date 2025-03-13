@@ -1,4 +1,5 @@
 ---
-layout: home
+layout: posts
+title: posts
 ---
 
