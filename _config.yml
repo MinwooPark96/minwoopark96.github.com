@@ -50,11 +50,11 @@ plainwhite:
 
   navigation:
     - title: About me
-      url: "/aboutme"
+      url: "/index"
     - title : Contact
       url: "/contact"
     - title: Posts
-      url: "/index"
+      url: "/posts"
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
