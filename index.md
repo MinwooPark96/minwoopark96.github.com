@@ -14,27 +14,27 @@ My research focuses on **Causal Decision Making** and **Causal Effect Identifica
 ### Education
 
 Graduate School of Data Science, Seoul National University (2022 - present)<br/>
-**M.S & Ph.D** candidate in *Data Science*, Advisor: [Prof. Sanghack Lee](https://www.sanghacklee.me/)
+**M.S & Ph.D** candidate in Data Science, Advisor: [Prof. Sanghack Lee](https://www.sanghacklee.me/)
 
 Department of Mathematics and Statistics, Sejong University (2016  - 2022) <br/> 
-**B.S.** in *Applied Statistic and Mathematics (Double Major)*, Advisor: [Prof. Jieun Lee](https://home.sejong.ac.kr/~jieunlee7/) <br/> 
+**B.S.** in Applied Statistic and Mathematics (Double Major), Advisor: [Prof. Jieun Lee](https://home.sejong.ac.kr/~jieunlee7/) <br/> 
 
 ### Publication
 <small>\* for joint first authorship and † for corresponding author.</small>
 
 1. Structural Causal Bandtis under Markov Equivalence <br/>
 <ins>Min Woo Park</ins>, [Andy Arditi](https://andyrdt.com/), [Elias Bareinboim](https://causalai.net/)†, and Sanghack Lee† <br/>
-*Columbia CausalAI Laboratory, Technical Report (preprint)*, 2025 -[[paper](https://causalai.net/r122.pdf)]
+Columbia CausalAI Laboratory, Technical Report (preprint), 2025 -[[paper](https://causalai.net/r122.pdf)]
 
 2. Convergence of the iterated mean transforms of a 2 by 2 matrix <br/>
 Ji Eun Lee\*† and <ins>Min Woo Park</ins>\* <br/>
-*under review*
+under review
 
 3. Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference <br/>
 [Yonghan Jung](https://sites.google.com/view/yonghanjung), <ins>Min Woo Park</ins>, and Sanghack Lee†
-<br/> *Neural Information Processing Systems* (NeurIPS), 2024 - [[paper](https://openreview.net/pdf?id=6gIcnPvw2x)][[poster](https://minwoopark96.github.io/paper/sac_poster.pdf)][[slides](https://minwoopark96.github.io/present/nips2024.pdf)]
+<br/> Neural Information Processing Systems (NeurIPS), 2024 - [[paper](https://openreview.net/pdf?id=6gIcnPvw2x)][[poster](https://minwoopark96.github.io/paper/sac_poster.pdf)][[slides](https://minwoopark96.github.io/present/nips2024.pdf)]
 4. Computation of the iterated Aluthge, Duggal, and Mean transforms <br/>
 <ins>Min Woo Park</ins>\* and Ji Eun Lee\*†
-<br/> *Filomat*, 2023 - [[paper](https://doiserbia.nb.rs/Article.aspx?ID=0354-51802315843P)]
+<br/> Filomat, 2023 - [[paper](https://doiserbia.nb.rs/Article.aspx?ID=0354-51802315843P)]
 
 [[Google Scholar](https://scholar.google.com/citations?user=sBHEbVQAAAAJ&hl=ko)]
