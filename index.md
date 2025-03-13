@@ -5,7 +5,7 @@ title: Min Woo Park
 
 ### About Me
 
-Hi, thanks for visiting my site! I previously conducted research at the Functional Analysis Lab of [Sejong University](http://sejong.ac.kr/). Currently, I am a graduate student in [Causality Lab](https://causality.snu.ac.kr/) <img src="causality_logo.jpg" alt="Causality Logo" style="width:50px; height:auto; display:inline;"> at [Seoul National University](https://www.snu.ac.kr/).
+Hi, thanks for visiting my site! I previously conducted research at the Functional Analysis Lab at [Sejong University](http://sejong.ac.kr/). Currently, I am a graduate student in the [Causality Lab](https://causality.snu.ac.kr/) <img src="causality_logo.jpg" alt="Causality Logo" style="width:50px; height:auto; display:inline;"> at [Seoul National University](https://www.snu.ac.kr/).
 
 ### Research
 
@@ -14,7 +14,7 @@ My research focuses on **Causal Decision Making** and **Causal Effect Identifica
 ### Education
 
 Graduate School of Data Science, Seoul National University (2022 - present)<br/>
-**M.S & Ph.D** candidate in Data Science, Advisor: [Prof. Sanghack Lee](https://www.sanghacklee.me/)
+**M.S & Ph.D** (candidate) in Data Science, Advisor: [Prof. Sanghack Lee](https://www.sanghacklee.me/)
 
 Department of Mathematics and Statistics, Sejong University (2016  - 2022) <br/> 
 **B.S.** in Applied Statistic and Mathematics (Double Major), Advisor: [Prof. Jieun Lee](https://home.sejong.ac.kr/~jieunlee7/) <br/> 
@@ -33,6 +33,7 @@ under review
 3. Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference <br/>
 [Yonghan Jung](https://sites.google.com/view/yonghanjung), <ins>Min Woo Park</ins>, and Sanghack Lee†
 <br/> Neural Information Processing Systems (NeurIPS), 2024 - [[paper](https://openreview.net/pdf?id=6gIcnPvw2x)][[poster](https://minwoopark96.github.io/paper/sac_poster.pdf)][[slides](https://minwoopark96.github.io/present/nips2024.pdf)]
+
 4. Computation of the iterated Aluthge, Duggal, and Mean transforms <br/>
 <ins>Min Woo Park</ins>\* and Ji Eun Lee\*†
 <br/> Filomat, 2023 - [[paper](https://doiserbia.nb.rs/Article.aspx?ID=0354-51802315843P)]
