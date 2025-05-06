@@ -24,7 +24,7 @@ Department of Mathematics and Statistics, Sejong University (2016  - 2022) <br/>
 
 1. Structural Causal Bandtis under Markov Equivalence <br/>
 <ins>Min Woo Park</ins>, [Andy Arditi](https://andyrdt.com/), [Elias Bareinboim](https://causalai.net/)†, and Sanghack Lee† <br/>
-Columbia CausalAI Laboratory, Technical Report (preprint), 2025 -[[paper](https://causalai.net/r122.pdf)]
+Columbia CausalAI Laboratory, Technical Report, 2025 - [[preprint](https://causalai.net/r122.pdf)][[slides](https://minwoopark96.github.io/present/tech122.pdf)]
 
 2. Convergence of the iterated mean transforms of a 2 by 2 matrix <br/>
 Ji Eun Lee\*† and <ins>Min Woo Park</ins>\* <br/>
