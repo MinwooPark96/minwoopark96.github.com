@@ -28,11 +28,11 @@ Department of Mathematics and Statistics, Sejong University (2016  - 2022) <br/>
 Columbia CausalAI Laboratory, Technical Report, 2025 - [[preprint](https://causalai.net/r122.pdf)][[slides](https://minwoopark96.github.io/present/tech122.pdf)]
 
 2. Structural Causal Bandtis with Transportability <br/>
-<ins>Min Woo Park</ins> and Sanghack Lee <br/>
+<ins>Min Woo Park</ins>, and Sanghack Lee† <br/>
 under review
 
 3. Convergence of the iterated mean transforms of a 2 by 2 matrix <br/>
-Ji Eun Lee\*† and <ins>Min Woo Park</ins>\* <br/>
+Ji Eun Lee\*†, and <ins>Min Woo Park</ins>\* <br/>
 under review
 
 4. Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference <br/>
@@ -40,7 +40,7 @@ under review
 <br/> Neural Information Processing Systems (NeurIPS), 2024 - [[paper](https://openreview.net/pdf?id=6gIcnPvw2x)][[poster](https://minwoopark96.github.io/paper/sac_poster.pdf)][[slides](https://minwoopark96.github.io/present/nips2024.pdf)]
 
 5. Computation of the iterated Aluthge, Duggal, and Mean transforms <br/>
-<ins>Min Woo Park</ins>\* and Ji Eun Lee\*†
+<ins>Min Woo Park</ins>\*, and Ji Eun Lee\*†
 <br/> Filomat, 2023 - [[paper](https://doiserbia.nb.rs/Article.aspx?ID=0354-51802315843P)]
 
 [[Google Scholar](https://scholar.google.com/citations?user=sBHEbVQAAAAJ&hl=ko)] [[Curriculum Vitae](https://minwoopark96.github.io/mycv/cv.pdf)] [[Open Review](https://openreview.net/profile?id=~Min_Woo_Park1)]
