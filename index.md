@@ -22,19 +22,24 @@ Department of Mathematics and Statistics, Sejong University (2016  - 2022) <br/>
 ### Publication
 <small>\* for joint first authorship and † for corresponding author.</small>
 
+
 1. Structural Causal Bandtis under Markov Equivalence <br/>
 <ins>Min Woo Park</ins>, [Andy Arditi](https://andyrdt.com/), [Elias Bareinboim](https://causalai.net/)†, and Sanghack Lee† <br/>
 Columbia CausalAI Laboratory, Technical Report, 2025 - [[preprint](https://causalai.net/r122.pdf)][[slides](https://minwoopark96.github.io/present/tech122.pdf)]
 
-2. Convergence of the iterated mean transforms of a 2 by 2 matrix <br/>
+2. Structural Causal Bandtis with Transportability <br/>
+<ins>Min Woo Park</ins> and Sanghack Lee <br/>
+under review
+
+3. Convergence of the iterated mean transforms of a 2 by 2 matrix <br/>
 Ji Eun Lee\*† and <ins>Min Woo Park</ins>\* <br/>
 under review
 
-3. Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference <br/>
+4. Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference <br/>
 [Yonghan Jung](https://sites.google.com/view/yonghanjung), <ins>Min Woo Park</ins>, and Sanghack Lee†
 <br/> Neural Information Processing Systems (NeurIPS), 2024 - [[paper](https://openreview.net/pdf?id=6gIcnPvw2x)][[poster](https://minwoopark96.github.io/paper/sac_poster.pdf)][[slides](https://minwoopark96.github.io/present/nips2024.pdf)]
 
-4. Computation of the iterated Aluthge, Duggal, and Mean transforms <br/>
+5. Computation of the iterated Aluthge, Duggal, and Mean transforms <br/>
 <ins>Min Woo Park</ins>\* and Ji Eun Lee\*†
 <br/> Filomat, 2023 - [[paper](https://doiserbia.nb.rs/Article.aspx?ID=0354-51802315843P)]
 
