@@ -27,7 +27,7 @@ Department of Mathematics and Statistics, Sejong University (2016  - 2022) <br/>
 <ins>Min Woo Park</ins>, [Andy Arditi](https://andyrdt.com/), [Elias Bareinboim](https://causalai.net/)†, and Sanghack Lee† <br/>
 Columbia CausalAI Laboratory, Technical Report, 2025 - [[preprint](https://causalai.net/r122.pdf)][[slides](https://minwoopark96.github.io/present/tech122.pdf)]
 
-2. Structural Causal Bandits with Transportability <br/>
+2. On Transportability for Structural Causal Bandits <br/>
 <ins>Min Woo Park</ins>, and Sanghack Lee† <br/>
 under review
 
