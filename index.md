@@ -9,7 +9,7 @@ Hi, thanks for visiting my site! I previously conducted research at the Function
 
 ### News
 
-![New!](../assets/new.gif) June 2025: One paper is accepted at NeurIPS 2024.
+![New!](../assets/new.gif) Oct 2024: One paper is accepted at NeurIPS 2024.
 
 ### Education
 
