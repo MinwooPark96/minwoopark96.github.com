@@ -9,6 +9,7 @@ Hi, thanks for visiting my site! I previously conducted research at the Function
 
 ### News
 
+![New!](../assets/new.gif) July 2025: Causality Lab memebers visited JeJU for a workshop!
 ![New!](../assets/new.gif) Oct 2024: One paper is accepted at NeurIPS 2024.
 
 ### Education
