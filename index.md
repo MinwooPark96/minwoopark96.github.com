@@ -38,7 +38,7 @@ Ji Eun Lee\*†, and <ins>Min Woo Park</ins>\* <br/>
 under review
 
 4. Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference <br/>
-[Yonghan Jung](https://sites.google.com/view/yonghanjung), <ins>Min Woo Park</ins>, and Sanghack Lee†
+[Yonghan Jung](https://yonghanjung.me/), <ins>Min Woo Park</ins>, and Sanghack Lee†
 <br/> Neural Information Processing Systems (NeurIPS), 2024 - [[paper](https://openreview.net/pdf?id=6gIcnPvw2x)][[poster](https://minwoopark96.github.io/paper/sac_poster.pdf)][[slides](https://minwoopark96.github.io/present/nips2024.pdf)]
 
 5. Computation of the iterated Aluthge, Duggal, and Mean transforms <br/>
