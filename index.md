@@ -24,12 +24,15 @@ Department of Mathematics and Statistics, Sejong University (2016  - 2022) <br/>
 ### Publication
 <small>\* for joint first authorship and † for corresponding author.</small>
 
+6. Counterfactual Structural Causal Bandits <br/>
+<ins>Min Woo Park</ins>, and Sanghack Lee† <br/>
+under review
 
-1. Structural Causal Bandits under Markov Equivalence <br/>
+5. Structural Causal Bandits under Markov Equivalence <br/>
 <ins>Min Woo Park</ins>, [Andy Arditi](https://andyrdt.com/), [Elias Bareinboim](https://causalai.net/)†, and Sanghack Lee† <br/>
 Columbia CausalAI Laboratory, Technical Report, 2025 - [[preprint](https://causalai.net/r122.pdf)][[slides](https://minwoopark96.github.io/present/tech122.pdf)]
 
-2. On Transportability for Structural Causal Bandits <br/>
+4. On Transportability for Structural Causal Bandits <br/>
 <ins>Min Woo Park</ins>, and Sanghack Lee† <br/>
 under review
 
@@ -37,11 +40,11 @@ under review
 Ji Eun Lee\*†, and <ins>Min Woo Park</ins>\* <br/>
 under review
 
-4. Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference <br/>
+2. Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference <br/>
 [Yonghan Jung](https://yonghanjung.me/), <ins>Min Woo Park</ins>, and Sanghack Lee†
 <br/> Neural Information Processing Systems (NeurIPS), 2024 - [[paper](https://openreview.net/pdf?id=6gIcnPvw2x)][[poster](https://minwoopark96.github.io/paper/sac_poster.pdf)][[slides](https://minwoopark96.github.io/present/nips2024.pdf)]
 
-5. Computation of the iterated Aluthge, Duggal, and Mean transforms <br/>
+1. Computation of the iterated Aluthge, Duggal, and Mean transforms <br/>
 <ins>Min Woo Park</ins>\*, and Ji Eun Lee\*†
 <br/> Filomat, 2023 - [[paper](https://doiserbia.nb.rs/Article.aspx?ID=0354-51802315843P)]
 
