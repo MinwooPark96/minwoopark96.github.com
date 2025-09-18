@@ -38,7 +38,7 @@ under review
 
 4. Structural Causal Bandits under Markov Equivalence <br/>
 <ins>Min Woo Park</ins>, [Andy Arditi](https://andyrdt.com/), [Elias Bareinboim](https://causalai.net/)†, and Sanghack Lee† <br/>
-Neural Information Processing Systems (NeurIPS), 2025 - [[preprint](https://causalai.net/r122.pdf)][[slides](https://minwoopark96.github.io/present/tech122.pdf)]<br/> <small>(Columbia CausalAI Laboratory, Technical Report, R122)</small> 
+Neural Information Processing Systems (NeurIPS), 2025 - [[preprint](https://causalai.net/r122.pdf)][[slides](https://minwoopark96.github.io/present/tech122.pdf)]<br/> <small>(Columbia CausalAI Laboratory, Technical Report, R-122)</small> 
 
 5. Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference <br/>
 [Yonghan Jung](https://yonghanjung.me/), <ins>Min Woo Park</ins>, and Sanghack Lee†
