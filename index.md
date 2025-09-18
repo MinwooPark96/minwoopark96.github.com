@@ -8,8 +8,8 @@ title: Min Woo Park
 Hi, thanks for visiting my site! I previously conducted research at the Functional Analysis Lab at [Sejong University](http://sejong.ac.kr/). Currently, I am a graduate student in the [Causality Lab](https://causality.snu.ac.kr/) <img src="causality_logo.jpg" alt="Causality Logo" style="width:50px; height:auto; display:inline;"> at [Seoul National University](https://www.snu.ac.kr/). My research focuses on **Causal Decision Making** and **Causal Effect Identification**. I study how to graphically model a wide range of real-world problems in a causal manner and make optimal decisions. In particular, my research explores methods for making robust decisions, even when modeling with incomplete information, and decision-making processes in sequential settings.
 
 ### News
-
-![New!](../assets/new.gif) July 2025: Causality Lab memebers visit Jeju for a workshop! <br/> 
+![New!](../assets/new.gif) Oct 2025: One paper is accepted at NeurIPS 2025!<br/> 
+July 2025: Causality Lab memebers visit Jeju for a workshop! <br/> 
 Oct 2024: One paper is accepted at NeurIPS 2024.
 
 ### Education
@@ -28,17 +28,17 @@ Department of Mathematics and Statistics, Sejong University (2016  - 2022) <br/>
 <ins>Min Woo Park</ins>, and Sanghack Lee† <br/>
 under review
 
-2. Structural Causal Bandits under Markov Equivalence <br/>
-<ins>Min Woo Park</ins>, [Andy Arditi](https://andyrdt.com/), [Elias Bareinboim](https://causalai.net/)†, and Sanghack Lee† <br/>
-Columbia CausalAI Laboratory, Technical Report, 2025 - [[preprint](https://causalai.net/r122.pdf)][[slides](https://minwoopark96.github.io/present/tech122.pdf)]
-
-3. On Transportability for Structural Causal Bandits <br/>
+2. On Transportability for Structural Causal Bandits <br/>
 <ins>Min Woo Park</ins>, and Sanghack Lee† <br/>
 under review
 
-4. Convergence of the iterated mean transforms of a 2 by 2 matrix <br/>
+3. Convergence of the iterated mean transforms of a 2 by 2 matrix <br/>
 Ji Eun Lee\*†, and <ins>Min Woo Park</ins>\* <br/>
 under review
+
+4. Structural Causal Bandits under Markov Equivalence <br/>
+<ins>Min Woo Park</ins>, [Andy Arditi](https://andyrdt.com/), [Elias Bareinboim](https://causalai.net/)†, and Sanghack Lee† <br/>
+Neural Information Processing Systems (NeurIPS), 2025 - [[preprint](https://causalai.net/r122.pdf)][[slides](https://minwoopark96.github.io/present/tech122.pdf)]<br/> <small>(Columbia CausalAI Laboratory, Technical Report, R122)</small> 
 
 5. Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference <br/>
 [Yonghan Jung](https://yonghanjung.me/), <ins>Min Woo Park</ins>, and Sanghack Lee†
