@@ -24,29 +24,29 @@ Department of Mathematics and Statistics, Sejong University (2016  - 2022) <br/>
 ### Publication
 <small>\* for joint first authorship and † for corresponding author.</small>
 
-1. Counterfactual Structural Causal Bandits <br/>
-<ins>Min Woo Park</ins>, and Sanghack Lee† <br/>
-under review
-
-2. On Transportability for Structural Causal Bandits <br/>
-<ins>Min Woo Park</ins>, and Sanghack Lee† <br/>
-under review
-
-3. Convergence of the iterated mean transforms of a 2 by 2 matrix <br/>
-Ji Eun Lee\*†, and <ins>Min Woo Park</ins>\* <br/>
-under review
-
-4. Structural Causal Bandits under Markov Equivalence <br/>
+1. Structural Causal Bandits under Markov Equivalence <br/>
 <ins>Min Woo Park</ins>, [Andy Arditi](https://andyrdt.com/), [Elias Bareinboim](https://causalai.net/)†, and Sanghack Lee† <br/>
 Neural Information Processing Systems (NeurIPS), 2025 - [[preprint](https://causalai.net/r122.pdf)][[slides](https://minwoopark96.github.io/present/tech122.pdf)]<br/> <small>(Columbia CausalAI Laboratory, Technical Report, R-122)</small> 
 
-5. Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference <br/>
+2. Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference <br/>
 [Yonghan Jung](https://yonghanjung.me/), <ins>Min Woo Park</ins>, and Sanghack Lee†
 <br/> Neural Information Processing Systems (NeurIPS), 2024 - [[paper](https://openreview.net/pdf?id=6gIcnPvw2x)][[poster](https://minwoopark96.github.io/paper/sac_poster.pdf)][[slides](https://minwoopark96.github.io/present/nips2024.pdf)]
 
-6. Computation of the iterated Aluthge, Duggal, and Mean transforms <br/>
+3. Computation of the iterated Aluthge, Duggal, and Mean transforms <br/>
 <ins>Min Woo Park</ins>\*, and Ji Eun Lee\*†
 <br/> Filomat, 2023 - [[paper](https://doiserbia.nb.rs/Article.aspx?ID=0354-51802315843P)]
+
+4. Counterfactual Structural Causal Bandits <br/>
+<ins>Min Woo Park</ins>, and Sanghack Lee† <br/>
+under review
+
+5. On Transportability for Structural Causal Bandits <br/>
+<ins>Min Woo Park</ins>, and Sanghack Lee† <br/>
+under review
+
+6. Convergence of the iterated mean transforms of a 2 by 2 matrix <br/>
+Ji Eun Lee\*†, and <ins>Min Woo Park</ins>\* <br/>
+under review
 
 [[Google Scholar](https://scholar.google.com/citations?user=sBHEbVQAAAAJ&hl=ko)] [[Curriculum Vitae](https://minwoopark96.github.io/mycv/cv.pdf)] [[Open Review](https://openreview.net/profile?id=~Min_Woo_Park1)]
 
