@@ -26,7 +26,7 @@ Department of Mathematics and Statistics, Sejong University (2016  - 2022) <br/>
 
 1. Structural Causal Bandits under Markov Equivalence <br/>
 <ins>Min Woo Park</ins>, [Andy Arditi](https://andyrdt.com/), [Elias Bareinboim](https://causalai.net/)†, and Sanghack Lee† <br/>
-Neural Information Processing Systems (NeurIPS), 2025 - [[paper](https://openreview.net/pdf?id=3aFwsZxM5H)]<br/> <small>(Columbia University CausalAI Laboratory, Technical Report, R-122)</small> 
+Neural Information Processing Systems (NeurIPS), 2025 - [[paper](https://openreview.net/pdf?id=3aFwsZxM5H)][[poster](https://minwoopark96.github.io/paper/scbmec_poster.pdf)]<br/> <small>(Columbia University CausalAI Laboratory, Technical Report, R-122)</small> 
 
 2. On Transportability for Structural Causal Bandits <br/>
 <ins>Min Woo Park</ins>, and Sanghack Lee† <br/>
