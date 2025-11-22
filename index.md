@@ -36,11 +36,11 @@ Neural Information Processing Systems (NeurIPS), 2025 - [[paper](https://openrev
 <ins>Min Woo Park</ins>\*, and Ji Eun Lee\*†
 <br/> Filomat, 2023 - [[paper](https://doiserbia.nb.rs/Article.aspx?ID=0354-51802315843P)]
 
-4. Counterfactual Structural Causal Bandits <br/>
+4. On Transportability for Structural Causal Bandits <br/>
 <ins>Min Woo Park</ins>, and Sanghack Lee† <br/>
-under review
+Arxiv preprint - [preprint]
 
-5. On Transportability for Structural Causal Bandits <br/>
+5. Counterfactual Structural Causal Bandits <br/>
 <ins>Min Woo Park</ins>, and Sanghack Lee† <br/>
 under review
 
