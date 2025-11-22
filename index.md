@@ -30,7 +30,7 @@ Neural Information Processing Systems (NeurIPS), 2025 - [[paper](https://openrev
 
 2. On Transportability for Structural Causal Bandits <br/>
 <ins>Min Woo Park</ins>, and Sanghack Lee† <br/>
-Arxiv preprint, 2025 - [[preprint](https://minwoopark96.github.io/)]
+arXiv preprint, 2025 - [[preprint](https://minwoopark96.github.io/)]
 
 3. Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference <br/>
 [Yonghan Jung](https://yonghanjung.me/), <ins>Min Woo Park</ins>, and Sanghack Lee†
