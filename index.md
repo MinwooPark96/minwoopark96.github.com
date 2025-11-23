@@ -48,5 +48,5 @@ under review
 Ji Eun Lee\*†, and <ins>Min Woo Park</ins>\* <br/>
 under review
 
-[[Google Scholar](https://scholar.google.com/citations?user=sBHEbVQAAAAJ&hl=ko)] [[Curriculum Vitae](https://github.com/MinwooPark96/minwoopark96.github.com/blob/main/mycv/cv.pdf)] [[Open Review](https://openreview.net/profile?id=~Min_Woo_Park1)]
+[[Google Scholar](https://scholar.google.com/citations?user=sBHEbVQAAAAJ&hl=ko)] [[Curriculum Vitae](https://minwoopark96.github.io/mycv/cv.pdf)] [[Open Review](https://openreview.net/profile?id=~Min_Woo_Park1)]
 
