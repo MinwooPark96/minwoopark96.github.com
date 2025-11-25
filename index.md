@@ -50,4 +50,3 @@ under review
 
 [[Google Scholar](https://scholar.google.com/citations?user=sBHEbVQAAAAJ&hl=ko)] [[Curriculum Vitae](https://minwoopark96.github.io/mycv/cv_new.pdf)] [[Open Review](https://openreview.net/profile?id=~Min_Woo_Park1)]
 
-
