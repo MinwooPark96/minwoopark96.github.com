@@ -8,8 +8,7 @@ title: Min Woo Park
 Hi, thanks for visiting my site! I previously conducted research at the Functional Analysis Lab at [Sejong University](http://sejong.ac.kr/). Currently, I am a graduate student in the [Causality Lab](https://causality.snu.ac.kr/) <img src="causality_logo.jpg" alt="Causality Logo" style="width:50px; height:auto; display:inline;"> at [Seoul National University](https://www.snu.ac.kr/). My research focuses on **Causal Decision Making** and **Causal Effect Identification**. I study how to graphically model a wide range of real-world problems in a causal manner and make optimal decisions. In particular, my research explores methods for making robust decisions, even when modeling with incomplete information, and decision-making processes in sequential settings.
 
 ### News
-![New!](../assets/new.gif) Nov 2025: A preprint for our paper on transportability for structural causal bandits is released!<br/> 
-![New!](../assets/new.gif) Sep 2025: One paper is accepted at NeurIPS 2025!<br/> 
+![New!](../assets/new.gif) Nov 2025: A preprint for our paper on transportability for structural causal bandits is released!<br/> ![New!](../assets/new.gif) Sep 2025: One paper is accepted at NeurIPS 2025!<br/> 
 July 2025: Causality Lab memebers visit Jeju for a workshop! <br/> 
 Oct 2024: One paper is accepted at NeurIPS 2024.
 
